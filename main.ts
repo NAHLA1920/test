@@ -1,6 +1,4 @@
-input.onButtonPressed(Button.A, function () {
-    pins.servoWritePin(AnalogPin.P0, 180)
-})
+basic.showIcon(IconNames.Heart)
 basic.forever(function () {
 	
 })
